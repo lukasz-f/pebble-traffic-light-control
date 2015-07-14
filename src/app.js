@@ -1,9 +1,9 @@
 var UI = require('ui');
 
 var main = new UI.Card({
-  title: 'Traffic Light Control',
+  title: 'Traffic Light Control Pro',
   body: 'Sending...',
-  banner: 'images/send4.png'
+  banner: 'images/send5.png'
 });
 
 main.show();

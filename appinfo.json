@@ -4,7 +4,7 @@
         ""
     ],
     "companyName": "lukaszf6@gmail.com",
-    "longName": "pebble-traffic-light-control",
+    "longName": "Traffic Light Remote Control",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -30,14 +30,14 @@
                 "type": "font"
             },
             {
-                "file": "images/send4.png",
-                "name": "IMAGES_SEND4_PNG",
+                "file": "images/send5.png",
+                "name": "IMAGES_SEND5_PNG",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "3",
-    "shortName": "pebble-traffic-light-control",
+    "shortName": "Traffic Light Remote Control",
     "uuid": "75b93eb5-f4d7-4dae-8dbe-e733a65bbea3",
     "versionCode": 1,
     "versionLabel": "1.0",
